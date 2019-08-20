@@ -1,1 +1,1 @@
-# Deduvtive DSGE: Theory and Applications
+# Deductive DSGE: Theory and Applications
