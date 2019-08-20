@@ -1,1 +1,1 @@
-# Eductive-Approach-in-DSGE-Models
+# Deduvtive DSGE: Theory and Applications
