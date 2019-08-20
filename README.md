@@ -1,1 +1,2 @@
-# Deductive DSGE: Theory and Applications
+# Eductive DSGE: Theory and Applications
+
